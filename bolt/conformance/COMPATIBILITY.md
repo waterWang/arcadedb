@@ -4,7 +4,7 @@
 
 Certification status of ArcadeDB's Bolt protocol against every official Neo4j driver, per the shared conformance spec ([`spec.yaml`](spec.yaml), epic #4882). Columns are driver language by pinned version ([`driver-versions.md`](driver-versions.md)).
 
-**Last verified:** 2026-09-15 10:23 UTC ([run](https://github.com/waterWang/arcadedb/actions/runs/34946600470))
+**Last verified:** 2026-09-16 09:59 UTC ([run](https://github.com/waterWang/arcadedb/actions/runs/35072866432))
 
 Legend: ✅ pass, ❌ fail, ⚠️ expected-fail / known limitation, ➖ not applicable, ⚪ skipped, `·` not reported. A `·` in a listed Coverage-gaps column means no result for that driver:version.
 
